@@ -1,4 +1,4 @@
-<html>
+<script>
 <div>Mushroom classifier</div>
 <button type="button" onclick="init()">Identify</button>
 <div id="webcam-container"></div>
@@ -58,4 +58,3 @@
         }
     }
 </script>
-</html>
